@@ -9,7 +9,7 @@ function Notification ({message}) {
     )
 }
 
-Notification.prototype = {
+Notification.propTypes = {
     message : propTypes.string.isRequired
 }
 

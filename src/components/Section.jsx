@@ -1,5 +1,5 @@
 import React from "react"
-import '/src/components/styles.scss';
+import '/src/components/styles.css';
 import propTypes from "prop-types";
 
 function Section ({title, children}){

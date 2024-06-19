@@ -1,0 +1,29 @@
+:root{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.buttons{
+    display: flex;
+    gap: 5px;
+    border-radius: 4px;
+}
+
+.buttons button{
+    background-color: white;
+    border: 1px solid lightgrey;
+}
+
+.buttons button:hover{
+    background-color: blue;
+    color: white;
+}
+
+.stat-non{
+    display: none;
+}
+.stat-yes{
+    
+}
+
+.hidden{
+    display: none;
+}
